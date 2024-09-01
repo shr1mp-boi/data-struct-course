@@ -1,5 +1,5 @@
 # ESTRUCTURAS DE DATOS
-Objetivo general.- El alumno aplicará las estructuras de datos, así como las técnicas de recuperación y ordenamiento de datos en la implementación de algoritmos computacionales.
+***Objetivo general.-*** El alumno aplicará las estructuras de datos, así como las técnicas de recuperación y ordenamiento de datos en la implementación de algoritmos computacionales.
 
 # UNIDADES
 * **I.-** Introducción a los algoritmos de estructuras de datos
