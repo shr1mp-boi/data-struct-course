@@ -17,6 +17,8 @@ int main()
          if(letra == arreglo[i]){
             encontrado = 1;
             break;
+         } else {
+             encontrado = 0;
          }
          pos++;
      }
@@ -24,7 +26,7 @@ int main()
    if(encontrado){
         printf("\nPosicion del caracter %c: %d", letra, pos);
    } else{
-       printf("\nDato no localizado.");
+       printf("\nDato no localizado.\n");
    }
     return 0;
 }
